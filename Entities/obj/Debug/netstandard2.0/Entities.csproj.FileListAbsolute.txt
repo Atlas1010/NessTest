@@ -1,0 +1,10 @@
+C:\Sara\עבודה בעזה\נס\NessTest-Core5-angular13\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Sara\עבודה בעזה\נס\NessTest-Core5-angular13\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Sara\עבודה בעזה\נס\NessTest-Core5-angular13\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Sara\עבודה בעזה\נס\NessTest-Core5-angular13\Entities\obj\Debug\netstandard2.0\Entities.csproj.AssemblyReference.cache
+C:\Sara\עבודה בעזה\נס\NessTest-Core5-angular13\Entities\obj\Debug\netstandard2.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sara\עבודה בעזה\נס\NessTest-Core5-angular13\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Sara\עבודה בעזה\נס\NessTest-Core5-angular13\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Sara\עבודה בעזה\נס\NessTest-Core5-angular13\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Sara\עבודה בעזה\נס\NessTest-Core5-angular13\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Sara\עבודה בעזה\נס\NessTest-Core5-angular13\Entities\obj\Debug\netstandard2.0\Entities.pdb

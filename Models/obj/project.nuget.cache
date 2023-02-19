@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LQKzXhn9TTL6VALafEnyr/bwb9f4GXOBwVzdIKKcmR8vUgPRU5sx6NlUfiwmNR10uMrB7zn0JMC6iYBeH6PhYg==",
+  "success": true,
+  "projectFilePath": "C:\\Sara\\עבודה בעזה\\נס\\NessTest-Core5-angular13\\Models\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sara.atlas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sara.atlas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

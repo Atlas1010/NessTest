@@ -1,0 +1,13 @@
+C:\Sara\עבודה בעזה\נס\NessTest-Core5-angular13\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Sara\עבודה בעזה\נס\NessTest-Core5-angular13\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Sara\עבודה בעזה\נס\NessTest-Core5-angular13\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Sara\עבודה בעזה\נס\NessTest-Core5-angular13\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Sara\עבודה בעזה\נס\NessTest-Core5-angular13\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Sara\עבודה בעזה\נס\NessTest-Core5-angular13\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.AssemblyReference.cache
+C:\Sara\עבודה בעזה\נס\NessTest-Core5-angular13\DataAccess\obj\Debug\netstandard2.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sara\עבודה בעזה\נס\NessTest-Core5-angular13\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Sara\עבודה בעזה\נס\NessTest-Core5-angular13\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Sara\עבודה בעזה\נס\NessTest-Core5-angular13\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Sara\עבודה בעזה\נס\NessTest-Core5-angular13\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Sara\עבודה בעזה\נס\NessTest-Core5-angular13\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Sara\עבודה בעזה\נס\NessTest-Core5-angular13\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
